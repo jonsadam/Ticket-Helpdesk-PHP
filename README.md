@@ -2,10 +2,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="80"/>
 </p>
-
-<h1 align="center">📁 Helpdesk System</h1>
-<p align="center">Aplikasi Helpdesk berbasis PHP, HTML5 & JavaScript</p>
 
 ## Helpdesk Ticketing System
 
@@ -49,3 +47,4 @@ Aplikasi Helpdesk Web Simple berbasis **PHP, MySQL, HTML5, dan TailwindCSS** unt
 Lisensi: MIT
 
 Dibuat oleh: Lensajon Corp (Adam Abdillah Januar) – 2025
+
