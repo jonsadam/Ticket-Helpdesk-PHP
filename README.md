@@ -39,10 +39,7 @@ Aplikasi Helpdesk Web Simple berbasis **PHP, MySQL, HTML5, dan TailwindCSS** unt
 ## Database
 
 - Buat database **tiket**
-- Tabel :
-- **users** – menyimpan data akun (admin & user)  
-- **tickets** – menyimpan data tiket  
-- **replies** – menyimpan balasan tiket  
+- Import SQL yang ada di folder proyek 
 
 ---
 
@@ -62,6 +59,7 @@ Aplikasi Helpdesk Web Simple berbasis **PHP, MySQL, HTML5, dan TailwindCSS** unt
 Lisensi: MIT
 
 Dibuat oleh: Lensajon Corp (Adam Abdillah Januar) – 2025
+
 
 
 
