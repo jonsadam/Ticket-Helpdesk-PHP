@@ -39,7 +39,7 @@ Aplikasi Helpdesk Web Simple berbasis **PHP, MySQL, HTML5, dan TailwindCSS** unt
 ## Database
 
 - Buat database **tiket**
-- Import SQL yang ada di folder proyek 
+- Import SQL yang ada di folder sql (tiket.sql)
 
 ---
 
@@ -59,6 +59,7 @@ Aplikasi Helpdesk Web Simple berbasis **PHP, MySQL, HTML5, dan TailwindCSS** unt
 Lisensi: MIT
 
 Dibuat oleh: Lensajon Corp (Adam Abdillah Januar) – 2025
+
 
 
 
