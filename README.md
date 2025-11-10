@@ -24,6 +24,10 @@ Aplikasi Helpdesk Web Simple berbasis **PHP, MySQL, HTML5, dan TailwindCSS** unt
 ## Dokumentasi
 
 ![Tampilan Dashboard](https://raw.githubusercontent.com/jonsadam/Ticket-Helpdesk-PHP/refs/heads/main/img/WhatsApp%20Image%202025-11-10%20at%2013.48.26.jpeg)
+![Tampilan Dashboard](https://raw.githubusercontent.com/jonsadam/Ticket-Helpdesk-PHP/refs/heads/main/img/WhatsApp%20Image%202025-11-10%20at%2013.49.18.jpeg)
+![Tampilan Dashboard](https://raw.githubusercontent.com/jonsadam/Ticket-Helpdesk-PHP/refs/heads/main/img/WhatsApp%20Image%202025-11-10%20at%2013.49.43.jpeg)
+![Tampilan Dashboard](https://raw.githubusercontent.com/jonsadam/Ticket-Helpdesk-PHP/refs/heads/main/img/WhatsApp%20Image%202025-11-10%20at%2013.49.43.jpeg)
+![Tampilan Dashboard](https://raw.githubusercontent.com/jonsadam/Ticket-Helpdesk-PHP/refs/heads/main/img/WhatsApp%20Image%202025-11-10%20at%2013.50.35.jpeg)
 
 
 ## Database
@@ -52,6 +56,7 @@ Aplikasi Helpdesk Web Simple berbasis **PHP, MySQL, HTML5, dan TailwindCSS** unt
 Lisensi: MIT
 
 Dibuat oleh: Lensajon Corp (Adam Abdillah Januar) – 2025
+
 
 
 
