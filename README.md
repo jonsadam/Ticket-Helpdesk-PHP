@@ -21,6 +21,11 @@ Aplikasi Helpdesk Web Simple berbasis **PHP, MySQL, HTML5, dan TailwindCSS** unt
 - Edit profil 
 ---
 
+## Dokumentasi
+
+![Tampilan Dashboard](https://raw.githubusercontent.com/jonsadam/Ticket-Helpdesk-PHP/refs/heads/main/img/WhatsApp%20Image%202025-11-10%20at%2013.48.26.jpeg)
+
+
 ## Database
 
 - Buat database **tiket**
@@ -47,6 +52,7 @@ Aplikasi Helpdesk Web Simple berbasis **PHP, MySQL, HTML5, dan TailwindCSS** unt
 Lisensi: MIT
 
 Dibuat oleh: Lensajon Corp (Adam Abdillah Januar) – 2025
+
 
 
 
