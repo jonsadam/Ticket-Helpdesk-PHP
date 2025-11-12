@@ -7,7 +7,7 @@
 
 ## Helpdesk Ticketing System
 
-Aplikasi Helpdesk Web Simple berbasis **PHP, MySQL, HTML5, dan TailwindCSS** untuk mengelola tiket support antara **user** dan **admin**.
+Aplikasi Helpdesk Web Simple berbasis **PHP 8, MySQL, HTML5, dan TailwindCSS** untuk mengelola tiket support antara **user** dan **admin**.
 
 ---
 
@@ -18,7 +18,9 @@ Aplikasi Helpdesk Web Simple berbasis **PHP, MySQL, HTML5, dan TailwindCSS** unt
 - CRUD Tiket   
 - Upload gambar opsional saat membuat tiket  
 - Balasan tiket (reply) antara user dan admin  
-- Edit profil 
+- Edit profil
+- Mobile Friendly
+- Compatible untuk semua browser
 ---
 
 ## Dokumentasi
@@ -59,6 +61,7 @@ Aplikasi Helpdesk Web Simple berbasis **PHP, MySQL, HTML5, dan TailwindCSS** unt
 Lisensi: MIT
 
 Dibuat oleh: Lensajon Corp (Adam Abdillah Januar) – 2025
+
 
 
 
